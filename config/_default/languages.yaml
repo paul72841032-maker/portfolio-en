@@ -3,19 +3,16 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-defaultContentLanguage: ko
-defaultContentLanguageInSubdir: true
-
 languages:
   ko:
     languageName: 한국어
+    title: "포트폴리오"
     weight: 1
-    title: "포트폴리오"     
     contentDir: content/ko
   en:
     languageName: English
-    weight: 2
     title: "Portfolio"
+    weight: 2
     contentDir: content/en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
