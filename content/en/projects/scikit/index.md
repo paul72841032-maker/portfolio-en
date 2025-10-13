@@ -1,6 +1,7 @@
 ---
 title: scikit-learn
 slug: en-scikit
+url: /en/scikit/
 date: 2023-10-26
 links:
   - type: site

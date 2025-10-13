@@ -1,6 +1,7 @@
 ---
 title: PyTorch
 slug: en-PyTorch
+url: /en/PyTorch/
 date: 2023-10-26
 links:
   - type: site

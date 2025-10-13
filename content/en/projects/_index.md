@@ -1,6 +1,7 @@
 ---
 title: Projects
 slug: en-priojects
+url: /en/projects/
 date: 2024-05-19
 type: landing
 
