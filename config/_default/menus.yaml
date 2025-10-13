@@ -7,12 +7,27 @@ main:
   - name: bio
     url: /
     weight: 10
+    lang: ko
+  - name: bio
+    url: /
+    weight: 10
+    lang: en
   - name: experience
     url: experience
     weight: 11
+    lang: ko
+  - name: experience
+    url: experience
+    weight: 11
+    lang: en
   - name: projects
     url: projects/
     weight: 12
+    lang: ko
+  - name: projects
+    url: projects/
+    weight: 12
+    lang: en
   - name: "Korean"
     url: https://paul72841032-maker.github.io/portfolio-ko/
     weight: 13

@@ -2,6 +2,16 @@
   <div class="container">
     <a class="navbar-brand" href="/">My Portfolio</a>
 
+    <ul class="navbar-nav">
+      {{ range .Site.Menus.main }}
+        {{ if eq .Lang $.Site.Language.Lang }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+
     {{ if .IsTranslated }}
       <ul class="navbar-nav ml-auto">
         {{ range .Translations }}

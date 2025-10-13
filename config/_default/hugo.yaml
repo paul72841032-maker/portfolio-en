@@ -1,26 +1,33 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# ==========================================
+# Hugo Academic CV Theme - 다국어 설정 포함
+# ==========================================
 
-# Website name
+# Website info
 title: Hugo Academic CV Theme
-# Website URL
 baseURL: 'https://example.com/'
 
-############################
-## LANGUAGE
-############################
-
+# ==========================================
+# LANGUAGE
+# ==========================================
 defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 
-############################
-## ADVANCED
-############################
+# 다국어 언어 정의
+languages:
+  ko:
+    languageName: 한국어
+    weight: 1
+    title: "포트폴리오"
+  en:
+    languageName: English
+    weight: 2
+    title: "Portfolio"
 
+# ==========================================
+# ADVANCED SETTINGS
+# ==========================================
 build:
   writeStats: true
 enableGitInfo: false
@@ -53,3 +60,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
