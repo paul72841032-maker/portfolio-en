@@ -1,5 +1,6 @@
 ---
 title: "An example journal article"
+slug: ko-article
 authors:
 - admin
 - Robert Ford
