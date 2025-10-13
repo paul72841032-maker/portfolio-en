@@ -14,7 +14,7 @@ baseURL: 'https://example.com/'
 
 defaultContentLanguage: ko
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: tru
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
