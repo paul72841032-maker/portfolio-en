@@ -1,0 +1,6 @@
+- id: home
+  translation: "Home"
+- id: about
+  translation: "About"
+- id: contact
+  translation: "Contact"

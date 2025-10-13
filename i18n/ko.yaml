@@ -1,0 +1,6 @@
+- id: home
+  translation: "홈"
+- id: about
+  translation: "소개"
+- id: contact
+  translation: "연락처"
