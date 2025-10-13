@@ -14,17 +14,6 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 
-# 다국어 언어 정의
-languages:
-  ko:
-    languageName: 한국어
-    weight: 1
-    title: "포트폴리오"
-  en:
-    languageName: English
-    weight: 2
-    title: "Portfolio"
-
 # ==========================================
 # ADVANCED SETTINGS
 # ==========================================

@@ -1,5 +1,6 @@
 ---
-title: 'Projects'
+title: Projects
+slug: en-priojects
 date: 2024-05-19
 type: landing
 

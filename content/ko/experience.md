@@ -1,5 +1,6 @@
 ---
 title: 'Experience'
+slug: ko-experience
 date: 2023-10-24
 type: landing
 

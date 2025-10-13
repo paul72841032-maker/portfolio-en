@@ -1,5 +1,6 @@
 ---
-title: 'Projects'
+title: 프로젝트
+slug: ko-projects
 date: 2024-05-19
 type: landing
 

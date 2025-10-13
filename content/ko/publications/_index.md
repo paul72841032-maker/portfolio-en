@@ -1,5 +1,6 @@
 ---
 title: Publications
+slug: ko-pubications
 cms_exclude: true
 
 # View.

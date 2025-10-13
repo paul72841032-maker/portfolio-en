@@ -1,6 +1,7 @@
 ---
 # Display name
 title:  YeonWoo's  portfolio
+slug: en-admin
 
 # Name pronunciation (optional)
 name_pronunciation: ''
