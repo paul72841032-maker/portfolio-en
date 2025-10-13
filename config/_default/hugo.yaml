@@ -50,3 +50,6 @@ security:
 sitemap:
   _merge: deep
 
+hugo:
+  hasCJKLanguage: false
+  removePathAccents: true
