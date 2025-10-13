@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title:  YeonWoo's  portfolio
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Park  
+last_name: Yeon Woo
 
 # Pronouns (optional)
 pronouns: he/him
@@ -54,12 +54,12 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Computer Science and Artificial Intelligence
+    institution: Jeonbuk national University
+    date_start: 2024-03-01
+    date_end: 2030-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      I gradeate
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
@@ -67,18 +67,12 @@ education:
     institution: Carnegie Mellon University
     date_start: 2013-09-01
     date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+    summary: I majored in the Department of Computer Artificial Intelligence at Jeonbuk national University, and I am very interested in web development
+   
+    button:
+      text: 'Read Thisis'
+      url: 'https://example.com/thesis.pdf'
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
@@ -103,40 +97,40 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Front-end engine
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: C++
         description: ''
         percent: 85
-        icon: cloud
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: watching soccer
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: soccer ball
+      - name: waiching IT youtube
         description: ''
         percent: 70
-        icon: book-open
+        icon: cpu-chip
+      - name: watching F1 racing
+        description: ''
+        percent: 75
+        icon: racing car
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
