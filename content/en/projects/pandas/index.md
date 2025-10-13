@@ -1,7 +1,7 @@
 ---
-title: Pandas
-slug: en-pandas
-url: /en/pandas/
+title: "Pandas"
+slug: "en-pandas"
+url: "/en/pandas/"
 date: 2023-10-26
 links:
   - type: site

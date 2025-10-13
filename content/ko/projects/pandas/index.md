@@ -1,7 +1,7 @@
 ---
-title: Pandas
-slug: ko-pandas
-url: /ko/pandas/
+title: "Pandas"
+slug: "ko-pandas"
+url: "/ko/pandas/"
 date: 2023-10-26
 links:
   - type: site

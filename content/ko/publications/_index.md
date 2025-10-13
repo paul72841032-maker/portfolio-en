@@ -1,7 +1,7 @@
 ---
-title: Publications
-slug: ko-pubications
-url: /ko/publications/
+title: "Publications"
+slug: "ko-pubications"
+url: "/ko/publications/"
 cms_exclude: true
 
 # View.

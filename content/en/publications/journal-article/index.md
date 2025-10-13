@@ -1,7 +1,7 @@
 ---
 title: "An example journal article"
-slug: en-article
-url: /en/article/
+slug: "en-article"
+url: "/en/article/"
 authors:
 - admin
 - Robert Ford

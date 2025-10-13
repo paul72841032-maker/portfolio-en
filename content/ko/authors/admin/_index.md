@@ -1,8 +1,8 @@
 ---
 # Display name
-title: 연우's 포트폴리오
-slug: ko-admin
-url: /ko/admin/
+title: "연우's 포트폴리오"
+slug: "ko-admin"
+url: "/ko/admin/"
 
 # Name pronunciation (optional)
 name_pronunciation: ''

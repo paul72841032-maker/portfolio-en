@@ -8,8 +8,7 @@ languages:
   ko:
     languageName: 한국어
     weight: 1
-    title: "포트폴리오"
-    default: true      
+    title: "포트폴리오"     
     contentDir: content/ko
   en:
     languageName: English

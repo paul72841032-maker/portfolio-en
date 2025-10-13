@@ -22,7 +22,6 @@ languages:
     languageName: 한국어
     weight: 1
     title: "포트폴리오"
-    default: true
     contentDir: content/ko
   en:
     languageName: English

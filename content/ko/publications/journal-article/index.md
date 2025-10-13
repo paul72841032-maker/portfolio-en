@@ -1,7 +1,7 @@
 ---
 title: "An example journal article"
-slug: ko-article
-url: /ko/article/
+slug: "ko-article"
+url: "/ko/article/"
 authors:
 - admin
 - Robert Ford

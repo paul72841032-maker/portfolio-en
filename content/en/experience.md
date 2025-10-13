@@ -1,7 +1,7 @@
 ---
 title: 'Experience'
-slug: en-experience
-url: /en/experience/
+slug: "en-experience"
+url: "/en/experience/"
 date: 2023-10-24
 type: landing
 

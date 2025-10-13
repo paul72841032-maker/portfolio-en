@@ -1,7 +1,7 @@
 ---
-title: Publications
-slug: en-publications
-url: /en/publications/
+title: "Publications"
+slug: "en-publications"
+url: "/en/publications/"
 cms_exclude: true
 
 # View.

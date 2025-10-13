@@ -1,7 +1,7 @@
 ---
-title: 프로젝트
-slug: ko-projects
-url: /ko/projects/
+title: "프로젝트"
+slug: "ko-projects"
+url: "/ko/projects/"
 date: 2024-05-19
 type: landing
 
