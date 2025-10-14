@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "연우's 포트폴리오"
+title: "박연우 포트폴리오"
 slug: "ko-admin"
 url: "/ko/admin/"
 
@@ -36,18 +36,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:paul7284@naver.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://github.com/paul72841032-maker
+  - icon: brands/instagram
+    url: https://www.instagram.com/paul_pyw?igsh=Zmdoc3B0Y202YTFh
 
 interests:
   - Large Language Models
