@@ -28,6 +28,3 @@ main:
     url: /projects/
     weight: 12
     lang: en
-  - name: "Korean"
-    url: https://paul72841032-maker.github.io/portfolio-ko/
-    weight: 13
