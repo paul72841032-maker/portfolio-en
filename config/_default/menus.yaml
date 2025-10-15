@@ -5,26 +5,32 @@
 
 main:
   - name: bio
+    url: /
     url: ""
     weight: 10
     lang: ko
   - name: bio
+    url: /
     url: ""
     weight: 10
     lang: en
   - name: experience
+    url: /experience/
     url: "experience/"
     weight: 11
     lang: ko
   - name: experience
+    url: /experience/
     url: "experience/"
     weight: 11
     lang: en
   - name: projects
+    url: /projects/
     url: "projects/"
     weight: 12
     lang: ko
   - name: projects
+    url: /projects/
     url: "projects/"
     weight: 12
     lang: en
