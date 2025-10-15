@@ -2,28 +2,35 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
-main:
-  - name: 전기
-    url: /ko/
-    weight: 10
-    lang: ko
-  - name: bio
-    url: /en/
-    weight: 10
-    lang: en
-  - name: 경력
-    url: /ko/experience/
-    weight: 11
-    lang: ko
-  - name: experience
-    url: /en/experience/
-    weight: 11
-    lang: en
-  - name: 지도
-    url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
-    weight: 12
-    lang: ko
-  - name: map
-    url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
-    weight: 12
-    lang: en
+
+  main:
+   - name: 전기 
+     url: /ko/ 
+     url: "" 
+     weight: 10 
+     lang: ko 
+   - name: bio 
+     url: /en/ 
+     url: "" 
+     weight: 10 
+     lang: en 
+   - name: 경력  
+     url: /ko/experience/ 
+     url: "experience/" 
+     weight: 11 
+     lang: ko 
+   - name: experience 
+     url: /en/experience/ 
+     url: "experience/" 
+     weight: 11  
+     lang: en 
+   - name: 지도 
+     url: /ko/map/ 
+     url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
+     weight: 12 
+     lang: ko
+   - name: map 
+     url: /en/map/ 
+     url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
+     weight: 12 
+     lang: en
