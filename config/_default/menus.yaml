@@ -4,7 +4,7 @@
   #   The weight parameter defines the order that the links will appear in.
 
   main:
-   - name: 전기 
+   - name: bio 
      url: /ko/ 
      url: "" 
      weight: 10 
@@ -14,7 +14,7 @@
      url: "" 
      weight: 10 
      lang: en 
-   - name: 경력  
+   - name: experience  
      url: /ko/experience/ 
      url: "experience/" 
      weight: 11 
@@ -24,7 +24,7 @@
      url: "experience/" 
      weight: 11  
      lang: en 
-   - name: 지도 
+   - name: map
      url: /ko/map/ 
      url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
      weight: 12 
