@@ -4,7 +4,7 @@
 
     <ul class="navbar-nav">
       {{ range .Site.Menus.main }}
-        {{ if eq .Lang $.Site.Language.Lang }}
+        {{ if eq .Lang $.Site.Language.Lang }}  <!-- 현재 페이지 언어와 메뉴 언어 비교 -->
           <li class="nav-item">
             <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
           </li>
@@ -12,6 +12,7 @@
       {{ end }}
     </ul>
 
+    <!-- 언어 선택 버튼 -->
     {{ if .IsTranslated }}
       <ul class="navbar-nav ml-auto">
         {{ range .Translations }}
