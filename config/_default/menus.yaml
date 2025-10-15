@@ -4,7 +4,7 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: bio
+  - name: 전기
     url: ""
     weight: 10
     lang: ko
@@ -12,7 +12,7 @@ main:
     url: ""
     weight: 10
     lang: en
-  - name: experience
+  - name: 경력
     url: "experience/"
     weight: 11
     lang: ko

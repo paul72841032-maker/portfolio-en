@@ -61,22 +61,21 @@ education:
 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
+  - position: 웹개발자
+    date_start: 2025-10-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      제 홈페이지에 관한 간단한 웹 개발을 진행하였습니다.
+  - position: 게임 개발자
+    date_start: 2026-06-01
+    date_end: ''
+    summary: |
+      동아리 친구들과 간단한 게임개발을 진행해본 경험이 있습니다. 
+  - position: 개발자
+    date_start: 2025-09-20
+    date_end: 2025-10-03
+    summary: |
+      스마트 홈 센서 정보 관리 프로그램을 리눅스 환경에서 개발해본 경험이 있습니다. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

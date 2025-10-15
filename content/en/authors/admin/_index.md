@@ -69,22 +69,21 @@ education:
 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
+  - position: Website Developer
+    date_start: 2025-10-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      I develope website about my homepage
+  - position: Game Developer
+    date_start: 2026-06-01
+    date_end: ''
+    summary: |
+      I develope simple game with my club
+  - position: programmer
+    date_start: 2025-09-20
+    date_end: 2025-10-03
+    summary: |
+      I develope simple smart home-sensor information management program with linux
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
