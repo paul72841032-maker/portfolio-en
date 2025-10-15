@@ -41,6 +41,25 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
         Please reach out to collaborate 😃
+
+
+      title: "홈"
+      type: landing
+
+
+      # 📍오시는 길
+
+      {{< rawhtml >}}
+        <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.1213212748953!2d127.1318881755996!3d35.84602857253455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35702330dc920b9d%3A0x1d0d425396006646!2z7KCE67aB64yA7ZWZ6rWQIOqzteqzvOuMgO2VmSA37Zi46rSA!5e0!3m2!1sko!2skr!4v1760516384319!5m2!1sko!2skr"
+        width="100%"
+        height="450"
+        style="border:0; border-radius: 10px;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+        {{< /rawhtml >}}
     design:
       columns: '1'
   - block: collection
@@ -122,4 +141,5 @@ sections:
         # Card background color (CSS class)
         css_class: 'bg-primary-300'
         css_style: ''
+
 ---
