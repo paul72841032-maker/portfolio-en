@@ -20,11 +20,3 @@ main:
     url: "experience/"
     weight: 11
     lang: en
-  - name: projects
-    url: "projects/"
-    weight: 12
-    lang: ko
-  - name: projects
-    url: "projects/"
-    weight: 12
-    lang: en
