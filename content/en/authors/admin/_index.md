@@ -53,7 +53,7 @@ education:
     date_start: 2024-03-01
     date_end: 2030-06-30
     summary: |
-      I gradeate
+      I gradeate in computer Science and artificial intelligence in Jeonbuk national university and I have a knowledge at front-engine
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
@@ -124,33 +124,5 @@ languages:
     percent: 100
   - name: English
     percent: 70
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
----
 
 Park Yeon wooo is graduated in Computer Science and Artificial Intelligence in Jeonbuk national University. I have a knoledge at web site. And i have some experience about simple web site
