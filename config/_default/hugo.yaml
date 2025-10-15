@@ -37,22 +37,21 @@ languages:
 menu:
   main:
     - name: bio
-      url: /ko/
+      url: /
       weight: 10
       lang: ko
     - name: bio
-      url: /en/
+      url: /
       weight: 10
       lang: en
     - name: experience
-      url: /ko/experience/
+      url: /experience/
       weight: 11
       lang: ko
     - name: experience
-      url: /en/experience/
+      url: /experience/
       weight: 11
       lang: en
-
 
 # ==========================================
 # Params (테마 맞춤용)
