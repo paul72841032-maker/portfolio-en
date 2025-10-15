@@ -44,9 +44,8 @@ profiles:
     url: https://www.instagram.com/paul_pyw?igsh=Zmdoc3B0Y202YTFh
 interests:
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Compiler
+  - Front-Engine
 
 education:
   - area: Computer Science and Artificial Intelligence
@@ -155,4 +154,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Park Yeon wooo is graduated in Computer Science and Artificial Intelligence in Jeonbuk national University. I have a knoledge at web site. And i have some experience about simple web site

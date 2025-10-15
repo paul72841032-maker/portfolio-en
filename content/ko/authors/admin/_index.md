@@ -44,10 +44,9 @@ profiles:
     url: https://www.instagram.com/paul_pyw?igsh=Zmdoc3B0Y202YTFh
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - 대규모 언어 모델 (Large Language Models)
+  - 컴파일러
+  - 프론트 엔진
 
 education:
   - area: 컴퓨터인공지능학부
@@ -147,4 +146,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+박연우는 전북대학교 컴퓨터인공지능학부를 전공하였으며, 웹개발 쪽에 많은 관심을 가지고 있습니다. 간단한 웹 개발 경험이 있습니다. 
