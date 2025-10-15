@@ -26,7 +26,6 @@ languages:
           url: /en/experience/
           weight: 11
         - name: map
-          url: /en/map/
           url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
           weight: 12
           
