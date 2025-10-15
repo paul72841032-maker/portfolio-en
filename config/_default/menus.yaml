@@ -24,13 +24,13 @@ main:
     url: "experience/"
     weight: 11
     lang: en
-  - name: projects
-    url: /projects/
-    url: "projects/"
+  - name: map
+    url: /map/
+    url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
     weight: 12
     lang: ko
-  - name: projects
-    url: /projects/
-    url: "projects/"
+  - name: map
+    url: /map/
+    url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
     weight: 12
     lang: en
