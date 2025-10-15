@@ -5,18 +5,18 @@
 
 main:
   - name: 전기
-    url: ""
+    url: /ko/
     weight: 10
     lang: ko
   - name: bio
-    url: ""
+    url: /en/
     weight: 10
     lang: en
   - name: 경력
-    url: "experience/"
+    url: /ko/experience/
     weight: 11
     lang: ko
   - name: experience
-    url: "experience/"
+    url: /en/experience/
     weight: 11
     lang: en
