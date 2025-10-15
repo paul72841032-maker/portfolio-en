@@ -5,32 +5,32 @@
 
 main:
   - name: 전기
-    url: /
+    url: /ko/
     url: ""
     weight: 10
     lang: ko
   - name: bio
-    url: /
+    url: /en/
     url: ""
     weight: 10
     lang: en
   - name: 경력
-    url: /experience/
+    url: /ko/experience/
     url: "experience/"
     weight: 11
     lang: ko
   - name: experience
-    url: /experience/
+    url: /en/experience/
     url: "experience/"
     weight: 11
     lang: en
   - name: 지도
-    url: /map/
+    url: /ko/map/
     url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
     weight: 12
     lang: ko
   - name: map
-    url: /map/
+    url: /en/map/
     url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
     weight: 12
     lang: en
