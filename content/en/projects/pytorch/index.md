@@ -1,7 +1,7 @@
 ---
-title: "PyTorch"
-slug: "en-PyTorch"
-url: "/en/PyTorch/"
+title: "pytorch"
+slug: "en-pytorch"
+url: "/en/pytorch/"
 date: 2023-10-26
 links:
   - type: site

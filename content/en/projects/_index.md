@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-slug: "en-priojects"
+slug: "en-projects"
 url: "/en/projects/"
 date: 2024-05-19
 type: landing
