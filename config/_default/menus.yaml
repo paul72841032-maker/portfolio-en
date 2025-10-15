@@ -4,20 +4,24 @@
   #   The weight parameter defines the order that the links will appear in.
 languages:
   ko:
-    menu:
+    languageName: 한국어
+    weight: 1
+    menus:
       main:
         - name: 전기
           url: /
           weight: 10
         - name: 경력
           url: /experience/
-          weight: 11  
+          weight: 11
         - name: 지도
           url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
           weight: 12
-         
+
   en:
-    menu:
+    languageName: English
+    weight: 2
+    menus:
       main:
         - name: bio
           url: /en/
@@ -28,4 +32,3 @@ languages:
         - name: map
           url: https://maps.app.goo.gl/593PE7ofwezWfsDHA
           weight: 12
-          
