@@ -63,11 +63,6 @@ education:
     date_start: 2024-03-01
     date_end: 2030-05-01
     summary: 컴퓨터 웹 개발을 연구하였습니다. 
-  - area: GPU
-    institution: 전북대학교
-    date_start: 2025-06-01
-    date_end: ""
-    summary": 게임 개발 동아리에서 활동하였습니다. 
 
 
 work:
