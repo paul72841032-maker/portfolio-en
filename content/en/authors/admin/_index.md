@@ -56,7 +56,7 @@ education:
       I gradeate in computer Science and artificial intelligence in Jeonbuk national university and I have a knowledge at front-engine
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://drive.google.com/file/d/1AcnR_8rDhRbKyUN6lUNisGpyFJcC0oVC/view?usp=drive_link'
   - area: MS Computer Science
     institution: Carnegie Mellon University
     date_start: 2013-09-01
