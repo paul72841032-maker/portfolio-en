@@ -12,6 +12,7 @@
      weight: 10 
      lang: ko 
    - name: bio 
+     identifier: bio
      url: /en/ 
      url: "" 
      weight: 10 
@@ -23,6 +24,7 @@
      weight: 11 
      lang: ko 
    - name: experience 
+     identifier: experience
      url: /en/experience/ 
      url: "experience/" 
      weight: 11  
@@ -34,6 +36,7 @@
      weight: 12 
      lang: ko
    - name: map 
+     identifier: map
      url: /en/map/ 
      url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
      weight: 12 
