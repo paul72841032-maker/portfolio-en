@@ -65,7 +65,7 @@ education:
    
     button:
       text: 'Read Thisis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://drive.google.com/file/d/1AcnR_8rDhRbKyUN6lUNisGpyFJcC0oVC/view?usp=drive_link'
 
 
 work:
