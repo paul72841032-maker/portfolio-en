@@ -57,10 +57,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://drive.google.com/file/d/1AcnR_8rDhRbKyUN6lUNisGpyFJcC0oVC/view?usp=drive_link'
-  - area: MS Computer Science
+  - area: Front-engine
     institution: Jeonbuk national university
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2024-03-01
+    date_end: 2030-05-01
     summary: I majored in the Department of Computer Artificial Intelligence at Jeonbuk national University, and I am very interested in web development
 
     button:
