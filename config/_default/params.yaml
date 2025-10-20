@@ -35,8 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      filename: "media/logo.png"
-      alt_text: "Portfolio logo"
+      text: "박연우"
 
 # Site footer
 footer:
