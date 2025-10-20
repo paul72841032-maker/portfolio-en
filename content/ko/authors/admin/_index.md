@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "박연우      포트폴리오"
+title: "박연우의 포트폴리오"
 slug: "ko-admin"
 url: "/ko/admin/"
 
