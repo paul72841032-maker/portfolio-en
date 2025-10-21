@@ -32,7 +32,6 @@ organizations:
   - name: Meta AI
     url: https://ai.meta.com/
 
-
 profiles:
   - icon: brands/github
     url: https://github.com/paul72841032-maker
