@@ -111,7 +111,7 @@ skills:
         description: ''
         percent: 75
         icon: racing car
-
+  
 languages:
   - name: Korean
     percent: 100
