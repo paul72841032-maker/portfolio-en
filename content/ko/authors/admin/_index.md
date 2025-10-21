@@ -52,7 +52,7 @@ education:
     date_start: 2024-03-01
     date_end: 2030-06-30
     summary: |
-        전북대학교 컴퓨터 인공지능 학부를 전공하였으며, 웹 개발 쪽에 많은 관심을 가지고 있습니다. 
+        전북대학교 컴퓨터 인공지능 학부를 재학중이며, 웹 개발 쪽에 많은 관심을 가지고 있습니다. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
