@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  "YeonWoo's  portfolio"
+title:  "Park Yeon Woo"
 slug: "en-admin"
 url: "/en/projects/"
 
