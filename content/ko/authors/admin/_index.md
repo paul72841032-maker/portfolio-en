@@ -33,7 +33,7 @@ organizations:
     url: https://ai.meta.com/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/`
+# Need to use another icon? Simply download the SVG icon to your `assets/media/
 profiles:
 
   - icon: brands/github
