@@ -12,7 +12,7 @@ first_name: 박
 last_name: 연우
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 남
 
 # Status emoji
 status:
