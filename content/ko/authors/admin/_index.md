@@ -112,7 +112,7 @@ skills:
         description: ''
         percent: 50
         icon: racing car
-
+  
 languages:
   - name: 한국어
     percent: 100
