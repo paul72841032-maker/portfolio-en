@@ -27,7 +27,7 @@ highlight_name: true
 # Role/position/tagline
 role: sophomore in computer science and artificial intelligence
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display
 organizations:
   - name: Meta AI
     url: https://ai.meta.com/
