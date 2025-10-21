@@ -33,7 +33,6 @@ organizations:
     url: https://ai.meta.com/
 
 # Social network links
-# Need to use another icon
 profiles:
   - icon: brands/github
     url: https://github.com/paul72841032-maker
