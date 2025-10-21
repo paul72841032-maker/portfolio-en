@@ -4,14 +4,14 @@ title:  "Park Yeon Woo"
 slug: "en-admin"
 url: "/en/projects/"
 
-# Name pronunciation (optional)
+# Name pronunciation (optional) 
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Park  
 last_name: Yeon Woo
 
-# Pronouns (optional)
+# Pronouns (optional) 
 pronouns: he/him
 
 # Status emoji
