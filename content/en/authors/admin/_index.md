@@ -78,8 +78,6 @@ work:
     summary: |
       I develope simple smart home-sensor information management program with linux
 
-# Skills
-
 skills:
   - name: Technical Skills
     items:
