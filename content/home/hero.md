@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 10
 
-# 슬라이더 모드 설정
+# 슬라이더
 design:
   background:
     image: slides/slide1.jpg
