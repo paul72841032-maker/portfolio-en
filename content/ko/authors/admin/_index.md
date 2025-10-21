@@ -33,7 +33,6 @@ organizations:
     url: https://ai.meta.com/
 
 # Social network links
-# Need to use
 profiles:
 
   - icon: brands/github
