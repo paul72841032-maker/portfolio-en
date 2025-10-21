@@ -11,7 +11,7 @@ name_pronunciation: ''
 first_name: 박
 last_name: 연우
 
-# Pronouns (optional)
+# Pronouns
 pronouns: 남
 
 # Status emoji
