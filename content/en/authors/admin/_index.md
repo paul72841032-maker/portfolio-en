@@ -61,8 +61,7 @@ education:
     summary: I majored in the Department of Computer Artificial Intelligence at Jeonbuk national University, and I am very interested in web development
 
     button:
-      text: 'Read Thisis'
-      url: 'https://drive.google.com/file/d/1AcnR_8rDhRbKyUN6lUNisGpyFJcC0oVC/view?usp=drive_link'
+      
 
 
 work:
