@@ -81,7 +81,6 @@ work:
       스마트 홈 센서 정보 관리 프로그램을 리눅스 환경에서 개발해본 경험이 있습니다. 
 
 # Skills
-# Add
 skills:
   - name: 기술
     items:
