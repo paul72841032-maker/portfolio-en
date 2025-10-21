@@ -27,7 +27,7 @@ highlight_name: true
 # Role/position/tagline
 role: sophomore in computer science and artificial intelligence
 
-# Organizations/Affiliations to
+# Organizations/Affiliat
 organizations:
   - name: Meta AI
     url: https://ai.meta.com/
