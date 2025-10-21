@@ -60,9 +60,7 @@ education:
     date_end: 2030-05-01
     summary: I majored in the Department of Computer Artificial Intelligence at Jeonbuk national University, and I am very interested in web development
 
-    button:
-      
-
+  
 
 work:
   - position: Website Developer
@@ -123,4 +121,4 @@ languages:
 
 ---
 
-Park Yeon wooo is graduated in Computer Science and Artificial Intelligence in Jeonbuk national University. I have a knoledge at web site. And i have some experience about simple web site
+Park Yeon wooo is in school in Computer Science and Artificial Intelligence in Jeonbuk national University. I have a knoledge at web site. And i have some experience about simple web site
