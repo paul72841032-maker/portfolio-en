@@ -80,7 +80,7 @@ work:
       I develope simple smart home-sensor information management program with linux
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+
 skills:
   - name: Technical Skills
     items:
