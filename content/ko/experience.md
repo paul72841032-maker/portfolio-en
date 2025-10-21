@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: '경력'
 slug: "ko-experience"
 url: "/ko/experience/"
 date: 2023-10-24
