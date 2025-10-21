@@ -18,7 +18,7 @@ pronouns: he/him
 status:
   icon: 🚀
 
-# Is this the primary user of the site?
+# Is this the primary user of the site?  
 superuser: true
 
 # Highlight the author in author lists? (true/false)
