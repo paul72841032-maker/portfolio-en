@@ -24,7 +24,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-
 role: sophomore in computer science and artificial intelligence
 
 organizations:
