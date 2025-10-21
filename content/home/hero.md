@@ -11,7 +11,7 @@ design:
     text_color_light: true
   style: slideshow
 
-# 슬라이더를 던지고 싶었지만 그러지 못하고
+# 슬라이더를 던지고 싶었지만 그러지
 slides:
   - title: "Jeonbuk national Universuty"
     content: "전북대학교"
