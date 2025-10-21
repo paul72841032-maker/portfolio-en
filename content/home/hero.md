@@ -4,7 +4,6 @@ headless: true
 active: true
 weight: 10
 
-# 슬라
 design:
   background:
     image: slides/slide1.jpg
