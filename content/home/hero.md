@@ -11,7 +11,7 @@ design:
     text_color_light: true
   style: slideshow
 
-# 슬라이드
+# 슬라
 slides:
   - title: "Jeonbuk national Universuty"
     content: "전북대학교"
