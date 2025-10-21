@@ -25,7 +25,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: 대학교 2학년 컴퓨터인공지능학부 재학
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
