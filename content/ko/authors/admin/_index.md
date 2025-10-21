@@ -62,7 +62,6 @@ education:
     date_end: 2030-05-01
     summary: 컴퓨터 웹 개발을 연구하였습니다. 
 
-
 work:
   - position: 웹개발자
     date_start: 2025-10-01
