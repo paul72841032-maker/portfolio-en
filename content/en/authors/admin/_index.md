@@ -50,7 +50,7 @@ education:
     date_start: 2024-03-01
     date_end: 2030-06-30
     summary: |
-      I gradeate in computer Science and artificial intelligence in Jeonbuk national university and I have a knowledge at front-engine
+      I am in computer Science and artificial intelligence in Jeonbuk national university and I have a knowledge at front-engine
     button:
       text: 'Read Thesis'
       url: 'https://drive.google.com/file/d/1AcnR_8rDhRbKyUN6lUNisGpyFJcC0oVC/view?usp=drive_link'
