@@ -6,38 +6,37 @@
 
   main:
    - name: bio
-     identifier: bio-ko
+     identifier: bio
      url: /ko/ 
      url: "" 
      weight: 10 
      lang: ko 
    - name: bio 
-     identifier: bio-en
+     identifier: bio
      url: /en/ 
      url: "" 
      weight: 10 
      lang: en 
    - name: experience
-     identifier: experience-ko
-     url: /ko/experience/ 
+     identifier: experience
      url: "experience/" 
      weight: 11 
      lang: ko 
    - name: experience 
-     identifier: experience-en
+     identifier: experience
      url: /en/experience/ 
      url: "experience/" 
      weight: 11  
      lang: en 
    - name: map
-     identifier: map-ko
+     identifier: map
      url: /ko/map/ 
      url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
      weight: 12 
      lang: ko
    - name: map 
-     identifier: map-en
-     url: /en/map/ 
+     identifier: map
+     url: /en/map/
      url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
      weight: 12 
      lang: en
