@@ -6,37 +6,37 @@
 
   main:
    - name: 전기
-     identifier: bio
+     identifier: bio-ko
      url: /ko/ 
      url: "" 
      weight: 10 
      lang: ko 
    - name: bio 
-     identifier: bio
+     identifier: bio-en
      url: /en/ 
      url: "" 
      weight: 10 
      lang: en 
    - name: 경력
-     identifier: experience
+     identifier: experience-ko
      url: /ko/experience/ 
      url: "experience/" 
      weight: 11 
      lang: ko 
    - name: experience 
-     identifier: experience
+     identifier: experience-en
      url: /en/experience/ 
      url: "experience/" 
      weight: 11  
      lang: en 
    - name: 지도
-     identifier: map
+     identifier: map-ko
      url: /ko/map/ 
      url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
      weight: 12 
      lang: ko
    - name: map 
-     identifier: map
+     identifier: map-en
      url: /en/map/ 
      url: https://maps.app.goo.gl/593PE7ofwezWfsDHA 
      weight: 12 
