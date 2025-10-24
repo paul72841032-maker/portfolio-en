@@ -14,6 +14,9 @@ last_name: 연우
 # Pronouns
 pronouns: 남
 
+#phonenumber
+number: 01072841032
+
 # Status emoji
 status:
   icon: 🚀

@@ -14,6 +14,9 @@ last_name: Yeon Woo
 # Pronouns (optional) 
 pronouns: he/him
 
+#phonenumber
+number: 01072841032
+
 # Status emoji
 status:
   icon: 🚀

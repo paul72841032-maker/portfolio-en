@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paul72841032-maker.github.io/pywportfolio/sitemap.xml

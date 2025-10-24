@@ -110,3 +110,10 @@ sitemap:
 ignoreLogs:
   - 'sections-none-'
   - 'missing-icon-hero-'
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - Sitemap
