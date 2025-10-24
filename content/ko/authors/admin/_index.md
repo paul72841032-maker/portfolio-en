@@ -28,7 +28,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 컴퓨터인공지능학부 2학년 재학
+role: 010-7284-1032
 
 organizations:
   - name: Meta AI
@@ -120,4 +120,4 @@ languages:
 
 ---
 
-박연우는 전북대학교 컴퓨터인공지능학부를 재학중이며, 웹개발 쪽에 많은 관심을 가지고 있습니다. 간단한 웹 개발 경험이 있습니다. 
+박연우는 전북대학교 컴퓨터인공지능학부 2학년을 재학중이며, 웹개발 쪽에 많은 관심을 가지고 있습니다. 간단한 웹 개발 경험이 있습니다. 

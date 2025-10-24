@@ -116,4 +116,4 @@ languages:
 
 ---
 
-Park Yeon wooo is in school in Computer Science and Artificial Intelligence in Jeonbuk national University. I have a knoledge at web site. And i have some experience about simple web site
+Park Yeon wooo is sophomore in school in Computer Science and Artificial Intelligence in Jeonbuk national University. I have a knoledge at web site. And i have some experience about simple web site
