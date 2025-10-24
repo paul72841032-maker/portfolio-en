@@ -14,8 +14,6 @@ last_name: Yeon Woo
 # Pronouns (optional) 
 pronouns: he/him
 
-#phonenumber
-number: 01072841032
 
 # Status emoji
 status:
@@ -27,7 +25,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-role: sophomore in computer science and artificial intelligence
+role: 010-7284-1032
 
 organizations:
   - name: Meta AI
